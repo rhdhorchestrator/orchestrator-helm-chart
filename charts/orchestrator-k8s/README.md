@@ -35,7 +35,7 @@ cd orchestrator-helm-chart/charts/orchestrator-k8s
 
 helm repo add bitnami https://charts.bitnami.com/bitnami
 helm repo add backstage https://backstage.github.io/charts
-helm repo add postgresql-persistent https://sclorg.github.io/helm-charts
+helm repo add postgresql https://charts.bitnami.com/bitnami
 helm repo add redhat-developer https://redhat-developer.github.io/rhdh-chart
 helm repo add workflows https://rhdhorchestrator.io/serverless-workflows-config
 
